@@ -1,3 +1,10 @@
+# CLion
+.idea/
+cmake-build-debug/
+
+# swap
+.swp
+
 # Prerequisites
 *.d
 
