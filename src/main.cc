@@ -14,12 +14,16 @@
 /* ====== INCLUSIONS ====== */
 #include <iostream>
 #include <math.h>
+#include <cstdlib>
+#include <cstdio>
 #include "OdrManagerLite.hh"
 #ifdef LINUX
 #include <sys/time.h>
 #else
 #include <windows.h>
 #endif
+
+using namespace std;
 
 /* ====== GLOBAL VARIABLES ====== */
 
